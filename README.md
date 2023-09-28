@@ -1,4 +1,5 @@
-I apologize for the previous result. Here is the full portion of the input you provided, formatted as a README.md file:
+# KinEmacs
+### Emacs Setup With Ease
 
 ```markdown
 ## How to watch a folder for change in Linux
